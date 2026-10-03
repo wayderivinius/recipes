@@ -13,3 +13,7 @@ Personal recipe collection.
 ## Drinks
 
 - [Clarified Spiced Rum & Apple Milk Punch](drinks/clarified-spiced-rum-apple-milk-punch.md)
+
+## Sides
+
+- [Easy Stovetop Mac and Cheese](sides/easy-stovetop-mac-and-cheese.md)
